@@ -23,8 +23,8 @@ retry logic so the app waits gracefully for MySQL to become ready.
 ├── .env.example
 └── .env                    # already filled with default local dev values
 ```
+<img width="1024" height="700" alt="image" src="https://github.com/user-attachments/assets/561e1609-27d0-40d6-8eba-44307c5a4aab" />
 
-<img width="1132" height="774" alt="image" src="https://github.com/user-attachments/assets/2f042b7b-d57c-426f-87ee-f33f82b73fe7" />
 
 upstream backend {
     server 15.207.100.65:8000;
